@@ -71,6 +71,7 @@ TODO. actual cLuster/endpoint architecture
 
 
 ### why zigbee?
+That decision was simple, i already had a working zigbee mesh network. I've been interested in Matter over Thread lately but thats a story for another time.
 
 *im sure its easily adapted to matter over thread, wifi or whatever other radio protocolls your using in your smarthome*
 

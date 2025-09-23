@@ -1,6 +1,10 @@
 # Puster
 ## motivation
-TODO - dust mite allergy, health benefits 
+people spend more than 90% of their time indoors, often exposed to pollutant concentrations that are two to five times higher than outdoors. for individuals with dust mite allergies, this can be particularly harmful. dust mites thrive in warm, humid environments, and their microscopic waste particles easily become airborne, triggering symptoms such as sneezing, watery eyes, and breathing difficulties. over time, prolonged exposure to indoor allergens like dust mites can worsen asthma and other respiratory conditions.
+
+improving indoor air quality is therefore not just about comfort, but about protecting long-term health and well-being. studies show that fine particulate matter (PM2.5), volatile organic compounds, and elevated CO₂ levels can significantly reduce cognitive performance and increase the risk of cardiovascular problems, sleep disruption, and chronic illnesses. clean air supports better sleep, sharper focus, and a healthier immune system.
+
+the Puster was designed with this in mind: to help reduce allergens like dust mites while also tackling the invisible but harmful indoor pollutants that affect daily life. by combining reliable filtration with smart electronics, it provides a simple step towards a healthier home environment. 
 
 ## mechanicals
 ### parts list

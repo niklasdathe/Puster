@@ -24,7 +24,16 @@ poor indoor air quality is linked not only to allergies and asthma but also to r
 
 ## electronics
 ### 
-TODO - why i chose esp32c6 (wireles capabilities) and fan controller
+the ESP32-C6 was chosen as the core of the Puster PCB because it offers modern wireless connectivity while staying flexible for different smart home ecosystems. with support for Wi-Fi 6, Bluetooth Low Energy 5.0, Zigbee and Thread (Matter), it can easily integrate into existing setups, whether that’s a Zigbee network, Matter-over-Thread, or simple Wi-Fi control. this makes the device adaptable for the future without locking it to one protocol.
+
+for fan control, I used the EMC2101, a dedicated I²C fan controller. this chip simplifies reliable 4-pin PWM fan operation by:  
+
+- generating the Intel-spec compliant PWM signal.
+- monitoring the fan tachometer feedback for RPM validation.
+- allowing precise control of fan speed directly over the I²C bus.
+
+by offloading the fan PWM and tachometer handling to the EMC2101, the ESP32-C6 remains free for wireless communication and higher-level logic. this approach ensures smooth and safe operation of 12V PC-style fans without risking glitches or timing issues from software-driven PWM and tacho pulse counting.
+
 ### assembly 
 TODO - pictures of my assembly process
 ### testing

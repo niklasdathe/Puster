@@ -64,4 +64,5 @@ TODO
 TODO
 ### flashing custom firmware
 TODO - which port to use, links to implementation help/wikis
+If anyone adapts this to other protocolls, feel free to share it so other people can benfit too
 

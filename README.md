@@ -37,7 +37,10 @@ for fan control, I used the EMC2101, a dedicated I²C fan controller. this chip 
 - monitoring the fan tachometer feedback for RPM validation.
 - allowing precise control of fan speed directly over the I²C bus.
 
-by offloading the fan PWM and tachometer handling to the EMC2101, the ESP32-C6 remains free for wireless communication and higher-level logic. this approach ensures smooth and safe operation of 12V PC-style fans without risking glitches or timing issues from software-driven PWM and tacho pulse counting.
+by offloading the fan PWM and tachometer handling to the EMC2101, the ESP32-C6 remains free for wireless communication and higher-level logic. this approach ensures smooth and safe operation of 12V PC-style fans without risking glitches or timing issues from software-driven PWM and tacho pulse counting.  
+
+routing turned out to be quite the challenge as the board is only 2cm wide but i managed to somehow squeeze it all in:  
+<img alt="image" src="images/pcb_routing.png"/>   
 
 ### assembly 
 TODO - pictures of my assembly process
@@ -48,7 +51,7 @@ TODO -pictures of pcb testing
 
 ### the fan
 the pcb was built around this type of fan connector(TODO specific kind):  
-<img width="181" height="199" alt="image" src="https://github.com/user-attachments/assets/0771c44b-f6ae-481e-86ad-8eea22dc403c" />   
+
 (from Noctua PWM specifications 
 white paper)
 

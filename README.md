@@ -6,7 +6,7 @@ poor indoor air quality is linked not only to allergies and asthma but also to r
 
 ## mechanicals
 ### parts list
-- **1x FY0194/30 (for phillips 800 series)**
+- **1x FY0194/30 (for phillips 800 series)**  
   widely available through many different sources 
 - **1x ESP32C6 based PCB**  
   More infos/files can be found in /electronics/  

@@ -51,6 +51,8 @@ for fan control, I used the EMC2101, a dedicated I²C fan controller. this chip 
 
 by offloading the fan PWM and tachometer handling to the EMC2101, the ESP32-C6 remains free for wireless communication and higher-level logic. this approach ensures smooth and safe operation of 12V PC-style fans without risking glitches or timing issues from software-driven PWM and tacho pulse counting.  
 
+I also brought out the full GPIO Header known from the ESP32 Devkits which allows the Puster to be extended to your liking. 
+
 routing turned out to be quite the challenge as the board is only 2cm wide but i managed to somehow squeeze it all in:  
 <img alt="image" src="images/pcb_routing.png"/>   
 

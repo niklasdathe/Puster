@@ -1,8 +1,39 @@
 # Puster
-## motivation
-i’ve been struggling with dust mite allergies for years, which makes clean indoor air more than just a comfort. dust mites thrive in humid environments, and their microscopic waste can trigger sneezing, watery eyes, and breathing difficulties. Since people spend more than 90% of their time indoors, often exposed to pollutant concentrations 2–5 times higher than outdoors (Environmental Science & Technology, 2023), the impact on health is significant.
+## motivation  
 
-poor indoor air quality is linked not only to allergies and asthma but also to reduced cognitive performance, sleep disruption, and higher risks of cardiovascular disease (Environmental Health Perspectives, 2015; Building and Environment, 2023). with the Puster, my goal is to reduce allergens like dust mites while also addressing the invisible but harmful pollutants that affect daily life.
+I’ve been struggling with dust mite allergies for years, so clean indoor air is more than just a comfort—it’s a necessity. Dust mites thrive in humid environments, and their microscopic waste is a major trigger for sneezing, watery eyes, and breathing problems. Since people spend over 90% of their time indoors, where pollutant concentrations can be two to five times higher than outdoors, the quality of indoor air has a huge influence on health (Morantes et al., *Environmental Science & Technology*, 2023; Sensirion, *Improving Indoor Air Quality*, 2023).  
+
+Research shows that three pollutants—particulate matter most (PM2.5 and PM10), formaldehyde, and nitrogen dioxide—account for almost all of the chronic harm caused by typical indoor contaminants. Together they make up nearly 99% of the total health burden, with particulate matter alone responsible for more than 90% of the impact (Morantes et al., 2023). Poor indoor air quality is not only linked to allergies and asthma but also to reduced cognitive performance, sleep disruption, and higher risks of cardiovascular disease (Allen et al., *Environmental Health Perspectives*, 2015; Kang et al., *Building and Environment*, 2023).  
+
+A standard HEPA filter like the one in Puster cannot remove everything, but it is very effective at capturing fine and coarse particles—including PM2.5, PM10, pollen, mold spores, and dust mite debris. This directly addresses the single most harmful category of indoor air pollutants. For the others, different strategies are needed:  
+
+By focusing on HEPA particle filtration, Puster directly reduces the largest share of harm from indoor air pollution, while also lowering exposure to common allergens. Combined with sensible source control and optional add-ons like activated carbon, it offers a practical and flexible way to improve indoor air where it matters most.  
+
+---
+
+### what HEPA filters and what to add for the rest  
+
+| Pollutant | Health effects | HEPA effective? | Remedies / add-ons |
+|-----------|----------------|-----------------|---------------------|
+| **PM2.5 / PM10** | Major cause of heart & lung disease, >90% of total harm. | ✅ Yes | Run HEPA core; boost during spikes (e.g., cooking, smoke); automate with Riecher. |
+| **Pollen & dust mites** | Allergy & asthma triggers; mites thrive in humidity. | ✅ Yes | Keep RH ~40–60%; encase bedding; HEPA vacuuming. |
+| **Mold spores** | Allergies, asthma, irritation. | ✅ Yes | Fix moisture issues; dehumidify; clean visible mold. |
+| **NO₂** | Lung damage, asthma, heart risks. | ❌ No | Use induction/vented cooking; add carbon/chemisorbent filter. |
+| **Formaldehyde** | Carcinogen, eye/lung irritant. | ❌ No | Low-emitting materials; add HCHO adsorbent/catalyst; monitor vs WHO 0.1 mg/m³. |
+| **O₃** | Worsens asthma, lung irritation. | ❌ No | Avoid ozone devices; add carbon/MnO₂ media; ventilate when outdoor O₃ is low. |
+| **VOCs** | Headaches, irritation; some are carcinogenic. | ❌ No | Source control + ventilation; thick carbon filter, replace often. |
+| **Radon** | Second leading cause of lung cancer. | ❌ No | Building mitigation (sub-slab depressurization, sealing). |
+| **CO₂** | Reduces cognition & sleep quality. | ❌ No | Ventilation; demand-control with CO₂ sensor (e.g., Riecher). |
+
+
+---
+
+**Key references for context:**  
+- Morantes, G., Jones, B., Molina, C., & Sherman, M. H. (2023). *Harm from Residential Indoor Air Contaminants*. Environmental Science & Technology, 58(1), 242–257.  
+- WHO Guideline for Formaldehyde: 0.1 mg/m³ (80 ppb) over 30 minutes.  
+- Allen, J. G., et al. (2015). *Environmental Health Perspectives*. Cognitive decline with poor IAQ.  
+- Kang, M., et al. (2023). *Building and Environment*. CO₂ impact on sleep quality.  
+- Sensirion (2023). *Improving Indoor Air Quality* brochure.  
 
 ## mechanicals
 ### parts list

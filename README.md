@@ -1,7 +1,7 @@
 # Puster
 ## motivation  
 
-I’ve been struggling with dust mite allergies for years, so clean indoor air is more than just a comfort—it’s a necessity. Dust mites thrive in humid environments, and their microscopic waste is a major trigger for sneezing, watery eyes, and breathing problems. Since people spend over 90% of their time indoors, where pollutant concentrations can be two to five times higher than outdoors, the quality of indoor air has a huge influence on health (Morantes et al., *Environmental Science & Technology*, 2023; Sensirion, *Improving Indoor Air Quality*, 2023).  
+I’ve been struggling with a light dust mite allergiy for years, so clean indoor air is more than just a comfort—it’s a necessity. Dust mites thrive in humid environments, and their microscopic waste is causing sneezing, itchy eyes and concentration problems. Since people spend over 90% of their time indoors, where pollutant concentrations can be two to five times higher than outdoors, the quality of indoor air has a huge influence on health (Morantes et al., *Environmental Science & Technology*, 2023; Sensirion, *Improving Indoor Air Quality*, 2023).  
 
 Research shows that three pollutants—particulate matter most (PM2.5 and PM10), formaldehyde, and nitrogen dioxide—account for almost all of the chronic harm caused by typical indoor contaminants. Together they make up nearly 99% of the total health burden, with particulate matter alone responsible for more than 90% of the impact (Morantes et al., 2023). Poor indoor air quality is not only linked to allergies and asthma but also to reduced cognitive performance, sleep disruption, and higher risks of cardiovascular disease (Allen et al., *Environmental Health Perspectives*, 2015; Kang et al., *Building and Environment*, 2023).  
 
@@ -15,14 +15,14 @@ By focusing on HEPA particle filtration, Puster directly reduces the largest sha
 
 | Pollutant | Health effects | HEPA effective? | Remedies / add-ons |
 |-----------|----------------|-----------------|---------------------|
-| **PM2.5 / PM10** | Major cause of heart & lung disease, >90% of total harm. | ✅ Yes | Run HEPA core; boost during spikes (e.g., cooking, smoke); automate with Riecher. |
+| **PM2.5 / PM10** | Major cause of heart & lung disease, >90% of total harm. | ✅ Yes | Run HEPA Puster; boost during spikes (e.g., cooking, smoke); automate with Riecher. |
 | **Pollen & dust mites** | Allergy & asthma triggers; mites thrive in humidity. | ✅ Yes | Keep RH ~40–60%; encase bedding; HEPA vacuuming. |
 | **Mold spores** | Allergies, asthma, irritation. | ✅ Yes | Fix moisture issues; dehumidify; clean visible mold. |
 | **NO₂** | Lung damage, asthma, heart risks. | ❌ No | Use induction/vented cooking; add carbon/chemisorbent filter. |
-| **Formaldehyde** | Carcinogen, eye/lung irritant. | ❌ No | Low-emitting materials; add HCHO adsorbent/catalyst; monitor vs WHO 0.1 mg/m³. |
+| **Formaldehyde** | Carcinogen, eye/lung irritant. | ❌ No | Avoid high-emitting materials. |
 | **O₃** | Worsens asthma, lung irritation. | ❌ No | Avoid ozone devices; add carbon/MnO₂ media; ventilate when outdoor O₃ is low. |
 | **VOCs** | Headaches, irritation; some are carcinogenic. | ❌ No | Source control + ventilation; thick carbon filter, replace often. |
-| **Radon** | Second leading cause of lung cancer. | ❌ No | Building mitigation (sub-slab depressurization, sealing). |
+| **Radon** | Second leading cause of lung cancer. | ❌ No | Building mitigation. |
 | **CO₂** | Reduces cognition & sleep quality. | ❌ No | Ventilation; demand-control with CO₂ sensor (e.g., Riecher). |
 
 

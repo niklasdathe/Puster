@@ -68,8 +68,8 @@ By focusing on HEPA particle filtration, Puster directly reduces the largest sha
 ### manufacturing
 
 The ***base*** was routed from wood using a cnc machine. This was a dual sided operation as it has features on both sides of the base. On the bottom there is a place for the cable to be routed which acts as a strain relief at the same time. The base is attached to the cage with 4 M4 bolts that also hold the feet in place. I decided against the single responsiblilty idea for simplicity reasons.  
-<img width="181" height="199" alt="image" src=images/routed_base_process.png />
-<img width="181" height="199" alt="image" src=images/routed_base_finished.png />  
+<img width="250" alt="image" src=images/routed_base_process.png />
+<img width="250" alt="image" src=images/routed_base_finished.png />  
 The ***cage*** was printed with Bambu Labs wood filament. It just fits on my P1S. On the coarsest preset, the print took 17 hours. On my usual preset it would've taken 41 hours. 
 
 The ***lid*** was also printed from the same filament. This took just 4 hours.#

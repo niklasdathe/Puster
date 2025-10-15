@@ -77,7 +77,7 @@ The ***cage*** was printed with Bambu Labs wood filament. It just fits on my P1S
 On my version the print got quite a lot of defects near the top of the print which happended because the vertical slats were unsupported and flexing substantially due to the printing forces. This is mitigated in the current version by added cross braces. Also, the top opening was slightly too small which was also reworked in the second revision. 
 
 
-< img width="250" alt="image" src=images/routed_base_finished.png />  
+< img width="250" alt="image" src=images/cage_print_defects.png />  
 
 The ***lid*** was also printed from the same filament. This took just 4 hours.#
 

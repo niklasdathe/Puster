@@ -70,11 +70,18 @@ By focusing on HEPA particle filtration, Puster directly reduces the largest sha
 The ***base*** was routed from wood using a cnc machine. This was a dual sided operation as it has features on both sides of the base. On the bottom there is a place for the cable to be routed which acts as a strain relief at the same time. The base is attached to the cage with 4 M4 bolts that also hold the feet in place. I decided against the single responsiblilty idea for simplicity reasons.  
 <img width="250" alt="image" src=images/routed_base_process.png />
 <img width="250" alt="image" src=images/routed_base_finished.png />  
-The ***cage*** was printed with Bambu Labs wood filament. It just fits on my P1S. On the coarsest preset, the print took 17 hours. On my usual preset it would've taken 41 hours. 
+The ***cage*** was printed with Bambu Labs wood filament. It just fits on my P1S. On the 0.3mm layer height preset with a 0.6mm nozzle, the print took 12 hours. On my usual preset it would've taken 41 hours.  
+
+< img width="250" alt="image" src=images/cage_in_printer.jpg />  
+
+On my version the print got quite a lot of defects near the top of the print which happended because the vertical slats were unsupported and flexing substantially due to the printing forces. This is mitigated in the current version by added cross braces. Also, the top opening was slightly too small which was also reworked in the second revision. 
+
+
+< img width="250" alt="image" src=images/routed_base_finished.png />  
 
 The ***lid*** was also printed from the same filament. This took just 4 hours.#
 
-The ***adapter*** was also printed in this filament for consistency reasons. Here I didnt get around using support structures.
+The ***adapter*** was also printed in this filament for consistency reasons. Here I didnt get around using support structures but with a well tuned preset, they were easily removed.
 
 ## electronics
 ### the pcb 

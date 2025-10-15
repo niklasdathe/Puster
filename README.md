@@ -102,6 +102,8 @@ I also brought out the full GPIO Header known from the ESP32 Devkits which allow
 
 routing turned out to be quite the challenge as the board is only 2cm wide but i managed to somehow squeeze it all in:  
 <img alt="image" src="images/pcb_routing.png"/>   
+<img alt="image" src="images/pcb_physical.png"/>   
+<img alt="image" src="images/stencil.png"/>   
 
 ### assembly 
 TODO - pictures of my assembly process
